@@ -19,7 +19,7 @@
 
 💻 **Programming Journey**
 ---
-- 🎓 Currently studying **Programming** at LaSalle College, expanding my knowledge in software development.
+- 🎓 Currently studying **Programming**, expanding my knowledge in software development.
 - 🚀 Working on projects that integrate **geomatics** and **full-stack development**, such as:
   - Interactive web maps with PHP, MySQL, and Leaflet.js
   - Task management applications using modern frameworks and technologies
